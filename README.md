@@ -21,7 +21,7 @@ I recommend also taking a look at the precipitation levels and the statistics in
 We can use the same procedure to compare the amount of rain (in inches) over the years as we did for temperature. Below are two additional queries that filter the precipitation levels for the months of June and December. Looking at the data below, we see that while there is definitely rain in Hawaii year round, the rain is not so abundant that it would effect the ideal surf/ice cream weather. June tends to have less rain than December.
 
 ### June Precipitation
-
+![Juneprecipitation.png](Resources/Outcomes_vs_Goals.png)
 
 ### December Precipitation
 
