@@ -24,4 +24,4 @@ We can use the same procedure to compare the amount of rain (in inches) over the
 ![Juneprecipitation.png](https://github.com/jipelletier/Surfs_Up/blob/main/Juneprecipitation.png)
 
 ### December Precipitation
-
+![Decprecipitation.png](
